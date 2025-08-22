@@ -71,3 +71,9 @@ https://api.openweathermap.org/data/2.5/weather?q={city}&appid={API_KEY}&units=m
 
 - Weather data provided by [OpenWeatherMap](https://openweathermap.org/)
 - Icons provided by [Font Awesome](https://fontawesome.com/)
+
+## Screenshots
+
+<img width="1582" height="1034" alt="Screenshot 2025-08-22 at 9 08 39 AM" src="https://github.com/user-attachments/assets/6b459f52-4df3-4271-a93f-f052ad32fcf6" />
+<img width="1582" height="1034" alt="Screenshot 2025-08-22 at 9 09 22 AM" src="https://github.com/user-attachments/assets/6ebf4f5f-026f-401a-b6fe-4db371cf6d77" />
+
