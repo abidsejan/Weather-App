@@ -13,6 +13,10 @@ A dynamic, responsive weather application that fetches real-time weather data fr
 - **Error Handling**: User-friendly error messages for invalid city names
 - **Responsive Design**: Works seamlessly on desktop and mobile devices
 
+## Live Preview 
+Visit this site to see - https://weather-app-details.vercel.app
+
+
 ## Technologies Used
 
 - **HTML5**: Semantic markup for accessibility
